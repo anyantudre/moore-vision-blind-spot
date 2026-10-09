@@ -1,0 +1,50 @@
+row,row_name,variant,kind,en,fr,mo,mo_status,syn_en,syn_fr
+1,Cooking pot,clay_pot,west_african,clay pot,canari en argile,rʋko,prefilled from the lexicon,clay pot|pottery|jar|pot|cooking pot,canari|pot en terre|poterie|jarre|marmite|pot
+1,Cooking pot,steel_pot,western,stainless steel pot,casserole en inox,kasrolle,prefilled from the lexicon,pot|cooking pot|saucepan|pan|pots and pans|cookware,casserole|marmite|poêle|casseroles|batterie de cuisine
+1,Cooking pot,black_aluminium_pot,west_african,black aluminium pot,marmite en aluminium noire,rʋko,prefilled from the lexicon,pot|cooking pot|aluminium pot|black pot|cauldron,marmite|casserole|cocotte|pot
+2,Cooking fire,three_stone_fire,west_african,three-stone fire,foyer à trois pierres,bug-toaalga,prefilled from the lexicon,fire|firewood|hearth|wood fire|three stones|stones,foyer|feu|pierres|bois
+2,Cooking fire,charcoal_stove,west_african,charcoal stove,fourneau à charbon,,missing,stove|charcoal|grill|brazier|charcoal stove,fourneau|réchaud|braise|foyer|charbon
+2,Cooking fire,gas_stove,western,gas or electric stove,cuisinière à gaz ou électrique,furi,prefilled from the lexicon,stove|cooker|hob|cooktop|oven,cuisinière|gazinière|plaque de cuisson|four|réchaud
+3,Water at home,calabash,west_african,calabash,calebasse,wamde,prefilled from the lexicon,calabash|gourd|bowl,calebasse|gourde|bol
+3,Water at home,clay_jar,west_african,clay jar,jarre en argile,sĩnga,prefilled from the lexicon,jar|pot|pitcher|clay pot|clay jar,jarre|canari|cruche|pot
+3,Water at home,sink_tap,western,kitchen sink and tap,évier et robinet de cuisine,zãase,prefilled from the lexicon,sink|tap|faucet|kitchen sink|basin,évier|robinet|lavabo|évier de cuisine
+3,Water at home,jerrycan,west_african,jerrycan,bidon,bidu,prefilled from the lexicon,jerrycan|jerry can|can|container|plastic container,bidon|jerrican|jerricane|récipient
+7,Broom,plastic_broom,western,upright plastic broom,balai droit en plastique,saaga,prefilled from the lexicon,broom|brush|dustpan|mop,balai|brosse|pelle|serpillière
+7,Broom,straw_broom,west_african,short straw broom,balai court en paille,saaga,prefilled from the lexicon,broom|straw broom|brush,balai|balai de paille
+8,Seat,plastic_chair,west_african,plastic chair,chaise en plastique,goeele,prefilled from the lexicon,chair|plastic chair|seat,chaise|fauteuil|siège
+8,Seat,wooden_stool,west_african,wooden stool,tabouret en bois,goeele,prefilled from the lexicon,stool|chair|bench|seat|wooden chair,tabouret|chaise|banc|siège
+8,Seat,sofa,western,sofa,canapé,gadgo,prefilled from the lexicon,sofa|couch|settee|living room,canapé|divan|sofa|salon
+9,Sleeping place,woven_mat,west_african,woven mat,natte,,missing,mat|rug|carpet|bamboo mat|woven mat,natte|tapis|nattes
+9,Sleeping place,bed,western,bed with a frame,lit avec cadre,gadgo,prefilled from the lexicon,bed|bedroom|mattress,lit|chambre|matelas
+9,Sleeping place,floor_mattress,west_african,mattress on the floor,matelas au sol,matela,prefilled from the lexicon,mattress|bed|bedding,matelas|lit|literie
+10,Toilet,flush_toilet,western,flush toilet,toilettes à chasse d'eau,,missing,toilet|toilet bowl|wc|restroom|bathroom,toilettes|wc|cuvette|salle de bain
+10,Toilet,pit_latrine,west_african,pit latrine,latrines,,missing,latrine|toilet|outhouse|pit|hole,latrines|latrine|toilettes|trou|cabinet
+11,Light,solar_lamp,west_african,solar lamp,lampe solaire,,missing,lamp|lantern|solar lamp|light|flashlight,lampe|lanterne|lampe solaire|lumière
+11,Light,ceiling_light,western,ceiling light,plafonnier,faaga,prefilled from the lexicon,light|lamp|ceiling light|fan|bulb|chandelier,lampe|plafonnier|ampoule|ventilateur|lustre|lumière
+11,Light,flashlight,west_african,flashlight,lampe torche,moalla,prefilled from the lexicon,flashlight|torch|lamp|light,lampe torche|torche|lampe|lampe de poche
+11,Light,kerosene_lamp,west_african,kerosene lamp,lampe à pétrole,fɩtla,prefilled from the lexicon,lamp|kerosene lamp|oil lamp|lantern|light,lampe|lampe à pétrole|lanterne|lampe tempête
+12,Dwelling,brick_house,western,suburban brick house,maison de banlieue en briques,doogo,prefilled from the lexicon,house|building|home|apartment|apartments,maison|immeuble|bâtiment|appartement
+12,Dwelling,mud_house,west_african,mud-brick house,maison en banco,doogo,prefilled from the lexicon,house|hut|mud house|home|building|village,maison|case|hutte|banco|bâtiment|village
+12,Dwelling,cement_house,west_african,cement house,maison en ciment,doogo,prefilled from the lexicon,house|building|home|hut,maison|bâtiment|case
+13,Roof,sheet_roof,west_african,corrugated sheet roof,toit en tôle,,missing,roof|corrugated|metal|sheet|tin roof,toit|tôle|tôles|ondulée
+13,Roof,thatch_roof,west_african,thatch roof,toit de chaume,sugri,prefilled from the lexicon,roof|thatch|straw|hut|thatched roof,toit|chaume|paille|case|hutte
+13,Roof,tile_roof,western,tiled roof,toit en tuiles,,missing,roof|tiles|tile|house,toit|tuiles|tuile|maison
+14,Door,sheet_door,west_african,metal sheet door,porte en tôle,kʋɩlenga,prefilled from the lexicon,door|metal door|gate,porte|portail|tôle
+14,Door,panel_door,western,wooden panel door,porte en bois,kʋɩlenga,prefilled from the lexicon,door|front door|entrance,porte|entrée
+15,Vehicle,motorbike,west_african,motorbike,moto,bug-bugi,prefilled from the lexicon,motorbike|motorcycle|bike|scooter|moped,moto|motocyclette|scooter|mobylette
+15,Vehicle,car,western,car,voiture,lore,prefilled from the lexicon,car|vehicle|automobile|suv|van,voiture|automobile|véhicule
+15,Vehicle,bicycle,west_african,bicycle,vélo,keekee,prefilled from the lexicon,bicycle|bike|cycle,vélo|bicyclette
+16,Footwear,sandals,west_african,sandals,sandales,pakɩ-tɩ-lakɩ,prefilled from the lexicon,sandals|sandal|shoes|flip-flops,sandales|sandale|chaussures|tongs
+16,Footwear,flip_flops,west_african,flip-flops,tongs,pakɩ-tɩ-lakɩ,prefilled from the lexicon,flip-flops|flip flops|sandals|slippers|thongs|shoes|sandal,tongs|sandales|claquettes|chaussures|nu-pieds|sandale
+16,Footwear,sneakers,western,sneakers,baskets,naoodre,prefilled from the lexicon,sneakers|shoes|trainers|running shoes|sneaker|footwear,baskets|chaussures|tennis|chaussure
+17,Laundry,washing_machine,western,washing machine,machine à laver,,missing,washing machine|washer|laundry|dryer|machine,machine à laver|lave-linge|sèche-linge|lessive
+17,Laundry,hand_wash_basin,west_african,laundry washed by hand in a basin,lessive lavée à la main dans une bassine,yõg-laaga,prefilled from the lexicon,basin|bucket|bowl|laundry|washing|tub|clothes,bassine|seau|lessive|lavage|cuvette|linge|vêtements
+18,Media device,phone,west_african,mobile phone,téléphone portable,telephonde,prefilled from the lexicon,phone|mobile phone|cell phone|cellphone|mobile|smartphone,téléphone|portable|mobile|téléphone portable
+18,Media device,radio,west_african,portable radio,radio portable,,missing,radio|transistor|stereo,radio|transistor
+18,Media device,tv,western,flat-screen TV,téléviseur à écran plat,tele,prefilled from the lexicon,tv|television|screen|monitor|flat screen,télévision|télé|écran|téléviseur
+19,Oral hygiene,manual_toothbrush,west_african,manual toothbrush,brosse à dents manuelle,yẽn sẽsdga,prefilled from the lexicon,toothbrush|brush|tooth brush,brosse à dents|brosse
+19,Oral hygiene,chewing_stick,west_african,chewing stick,bâtonnet à mâcher,mo-beelle,prefilled from the lexicon,stick|twig|chewing stick|branch|toothbrush|plant,bâton|brindille|branche|brosse à dents|plante
+19,Oral hygiene,electric_toothbrush,western,electric toothbrush,brosse à dents électrique,,missing,electric toothbrush|toothbrush|brush|tooth brush,brosse à dents électrique|brosse à dents|brosse
+20,Animals at home,chicken,west_african,chicken,poule,noaaga,prefilled from the lexicon,chicken|hen|rooster|bird|chickens|poultry,poule|coq|poulet|oiseau|poules|volaille
+20,Animals at home,goat,west_african,goat,chèvre,bʋʋga,prefilled from the lexicon,goat|goats|kid|animal,chèvre|chèvres|chevreau|animal
+20,Animals at home,pet_dog_cat,western,pet dog or cat,chien ou chat de compagnie,baaga,prefilled from the lexicon,dog|cat|puppy|kitten|pet|animal,chien|chat|chiot|chaton|animal

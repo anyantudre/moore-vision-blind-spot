@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+household_set/build/candidates/
+household_set/build/sheets/
+household_set/build/household_candidates.zip

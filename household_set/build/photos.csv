@@ -1,0 +1,223 @@
+id,row,group,variant,country,place,topic
+5d4bdf25cf0b3a0f3f33730b,1,west_african,clay_pot,Togo,tchamou,cooking_pots
+5d4bf381cf0b3a0f3f35a26a,1,west_african,black_aluminium_pot,Burkina Faso,mwe-quidraogo,cooking_pots
+5d4bef22cf0b3a0f3f352afc,1,west_african,black_aluminium_pot,Nigeria,ehegwo,cooking_pots
+5d4bf096cf0b3a0f3f35525e,1,west_african,black_aluminium_pot,Cote d'Ivoire,konan,cooking_pots
+5d4bf3c2cf0b3a0f3f35a8be,1,west_african,black_aluminium_pot,Burkina Faso,zongo,cooking_pots
+5d4bf3a5cf0b3a0f3f35a612,1,west_african,black_aluminium_pot,Burkina Faso,bande,cooking_pots
+5d4bf0b7cf0b3a0f3f355628,1,west_african,black_aluminium_pot,Cote d'Ivoire,yao-bernabi,cooking_pots
+5ed419e36858701b1019a208,1,western,steel_pot,France,carrillo,cooking_pots
+5d4be0decf0b3a0f3f33a05b,1,western,steel_pot,Netherlands,ploum,cooking_pots
+5d4be545cf0b3a0f3f3419f2,1,western,steel_pot,United States,macintyre,cooking_pots
+5d4bde29cf0b3a0f3f335ad1,1,western,steel_pot,Italy,nazzani,cooking_pots
+5ec4fc04f0611d7ddd742d06,1,western,steel_pot,France,rayez,cooking_pots
+5d4bf0dacf0b3a0f3f35599c,2,west_african,charcoal_stove,Cote d'Ivoire,ahova,cooking
+5d4bf3c2cf0b3a0f3f35a8be,2,west_african,three_stone_fire,Burkina Faso,zongo,cooking
+5ec4fc08f0611d7ddd742d20,2,western,gas_stove,France,rayez,stove_hob
+605a73b1801a87456085efa1,2,western,gas_stove,Denmark,hansen-refsing,stove_hob
+5d4be544cf0b3a0f3f3419d2,2,western,gas_stove,United States,macintyre,stove_hob
+5ec4f8fcf0611d7ddd741382,2,western,gas_stove,Spain,dela-torre-sawtana,stove_hob
+5d4be3cecf0b3a0f3f33ef6f,2,western,gas_stove,United States,theresa-s,stove_hob
+5d4bf3c0cf0b3a0f3f35a892,3,west_african,jerrycan,Burkina Faso,zongo,drinking_water
+5d4bf3a4cf0b3a0f3f35a5fa,3,west_african,jerrycan,Burkina Faso,bande,drinking_water
+5d4bf3a7cf0b3a0f3f35a666,3,west_african,jerrycan,Burkina Faso,zongo,get_water
+5d4bf46ecf0b3a0f3f35ba34,3,west_african,clay_jar,Burkina Faso,kabore,drinking_water
+5d4bf381cf0b3a0f3f35a258,3,west_african,clay_jar,Burkina Faso,mwe-quidraogo,drinking_water
+5d4bdf24cf0b3a0f3f337305,3,west_african,calabash,Togo,tchamou,drinking_water
+5d4be026cf0b3a0f3f338b7c,3,western,sink_tap,Netherlands,van-beek,kitchen_sink
+5ed6dd80b323617e009eb3ef,3,western,sink_tap,France,carrillo,kitchen_sink
+5d4bde28cf0b3a0f3f335ab3,3,western,sink_tap,Italy,nazzani,kitchen_sink
+5d4bde2fcf0b3a0f3f335b57,3,western,sink_tap,Italy,bravo,drinking_water
+5d4be032cf0b3a0f3f338ccc,3,western,sink_tap,Netherlands,van-kilsdonk,kitchen_sink
+5d4bf04ccf0b3a0f3f354b42,7,west_african,straw_broom,Liberia,nyanford,cleaning_equipment
+5d4bdf2fcf0b3a0f3f337427,7,west_african,straw_broom,Togo,kouleta,cleaning_floors
+5d4bef3dcf0b3a0f3f352e22,7,west_african,straw_broom,Nigeria,shemede,cleaning_equipment
+5d4bf05ccf0b3a0f3f354ca8,7,west_african,straw_broom,Liberia,blamoh,cleaning_equipment
+5d4bf0d2cf0b3a0f3f3558b4,7,west_african,straw_broom,Cote d'Ivoire,ahova,cleaning_equipment
+5d4bf0f0cf0b3a0f3f355c38,7,west_african,straw_broom,Cote d'Ivoire,coulibaly,cleaning_equipment
+5d4bf08acf0b3a0f3f355162,7,west_african,straw_broom,Cote d'Ivoire,konan,cleaning_equipment
+5d4bef27cf0b3a0f3f352b94,7,west_african,straw_broom,Nigeria,ehegwo,cleaning_equipment
+5d4bf116cf0b3a0f3f355f48,7,west_african,straw_broom,Cote d'Ivoire,fofana,cleaning_equipment
+5d4bdf25cf0b3a0f3f33730f,7,west_african,straw_broom,Togo,tchamou,cleaning_floors
+5d4bf3b6cf0b3a0f3f35a7d4,7,west_african,straw_broom,Burkina Faso,zongo,cleaning_equipment
+5f184bb76d14e3e1c24de0b2,7,western,plastic_broom,United States,moore,cleaning_equipment
+5d4be4eccf0b3a0f3f340fb0,7,western,plastic_broom,United States,williams,cleaning_floors
+5d4bde5acf0b3a0f3f335f4d,7,western,plastic_broom,United States,stringini,cleaning_floors
+5d4bdf2dcf0b3a0f3f3373ed,8,west_african,plastic_chair,Togo,kouleta,sitting_area
+5d4bf114cf0b3a0f3f355efc,8,west_african,wooden_stool,Cote d'Ivoire,fofana,armchair
+5d4bdf24cf0b3a0f3f3372f3,8,west_african,wooden_stool,Togo,tchamou,sitting_area
+5d4bf084cf0b3a0f3f3550d4,8,west_african,wooden_stool,Cote d'Ivoire,konan,armchair
+5d4bf099cf0b3a0f3f3552b8,8,west_african,wooden_stool,Cote d'Ivoire,konan,sitting_area
+5ec4f8a2f0611d7ddd74107b,8,western,sofa,Sweden,elzvik-nystrom,couch
+5d4be53fcf0b3a0f3f341936,8,western,sofa,United States,macintyre,couch
+605a669c801a8781d885e8da,8,western,sofa,Denmark,hansen-refsing,couch
+5ec4fc43f0611d7ddd742f0a,8,western,sofa,France,chamaitte,couch
+5ec4f8fcf0611d7ddd741384,8,western,sofa,Spain,dela-torre-sawtana,couch
+5d4bde23cf0b3a0f3f335a49,8,western,sofa,Italy,nazzani,couch
+5d4bf39acf0b3a0f3f35a4dc,9,west_african,woven_mat,Burkina Faso,bande,bed
+5d4bf468cf0b3a0f3f35b97c,9,west_african,woven_mat,Burkina Faso,kabore,bed
+5d4bf089cf0b3a0f3f355148,9,west_african,woven_mat,Cote d'Ivoire,konan,bed
+5d4bf115cf0b3a0f3f355f20,9,west_african,woven_mat,Cote d'Ivoire,fofana,bed
+5d4bdf30cf0b3a0f3f33742f,9,west_african,woven_mat,Togo,kouleta,bed
+5d4bf366cf0b3a0f3f359f40,9,west_african,woven_mat,Burkina Faso,sinare,bed
+5d4bf0efcf0b3a0f3f355c1a,9,west_african,floor_mattress,Cote d'Ivoire,coulibaly,bed
+5d4bf3d6cf0b3a0f3f35aa04,9,west_african,floor_mattress,Burkina Faso,alimata,bed
+5d4bf3d6cf0b3a0f3f35aa00,9,west_african,floor_mattress,Burkina Faso,alimata,bed
+5d4be407cf0b3a0f3f33f5ee,9,western,bed,United Kingdom,barnard,bed
+5d4bdf9fcf0b3a0f3f337f31,9,western,bed,Switzerland,renato,bed
+5ec4f908f0611d7ddd7413e3,9,western,bed,Spain,dela-torre-sawtana,bed
+5ec4f858f0611d7ddd740df1,9,western,bed,United States,deveney,bed
+5ec4f940f0611d7ddd7415b8,9,western,bed,Spain,tejada,bed
+5d4bdf25cf0b3a0f3f337315,10,west_african,pit_latrine,Togo,tchamou,toilet
+5d4bdf32cf0b3a0f3f337465,10,west_african,pit_latrine,Togo,ayanou-ahobli,toilet
+5d4bdf2bcf0b3a0f3f3373c5,10,west_african,pit_latrine,Togo,kouleta,toilet
+5d4bf37dcf0b3a0f3f35a1da,10,west_african,pit_latrine,Burkina Faso,mwe-quidraogo,toilet
+5d4bf0f3cf0b3a0f3f355c7e,10,west_african,pit_latrine,Cote d'Ivoire,coulibaly,toilet
+5f17731e9607c1941974c2ca,10,western,flush_toilet,United States,moore,toilet
+5d4be04bcf0b3a0f3f338f7c,10,western,flush_toilet,Netherlands,chang,toilet
+5d4be53ccf0b3a0f3f3418e4,10,western,flush_toilet,United States,diamond-01,toilet
+5efb663a48cdebbec9b6300c,10,western,flush_toilet,Austria,posch,toilet
+5d4bf399cf0b3a0f3f35a4c8,11,west_african,flashlight,Burkina Faso,bande,light_source_in_livingroom
+5d4bf3e3cf0b3a0f3f35ab66,11,west_african,flashlight,Burkina Faso,alimata,light_source_in_kitchen
+5d4bf3d5cf0b3a0f3f35a9ec,11,west_african,flashlight,Burkina Faso,alimata,light_source_in_livingroom
+5d4bf3a7cf0b3a0f3f35a652,11,west_african,flashlight,Burkina Faso,bande,light_source_in_kitchen
+5d4bf3c5cf0b3a0f3f35a914,11,west_african,flashlight,Burkina Faso,zongo,light_source_in_kitchen
+5d4bf0a8cf0b3a0f3f355470,11,west_african,flashlight,Cote d'Ivoire,yao-bernabi,light_source_in_livingroom
+5d4bef23cf0b3a0f3f352b14,11,west_african,kerosene_lamp,Nigeria,ehegwo,light_source_in_livingroom
+5d4beef2cf0b3a0f3f352564,11,west_african,kerosene_lamp,Nigeria,oputa-nwadioro,light_source_in_livingroom
+5d4bf07fcf0b3a0f3f35504a,11,west_african,solar_lamp,Cote d'Ivoire,konan,light_source_in_livingroom
+5d4bf365cf0b3a0f3f359f30,11,west_african,solar_lamp,Burkina Faso,sinare,light_source_in_livingroom
+5ec4f903f0611d7ddd7413b7,11,western,ceiling_light,Spain,dela-torre-sawtana,light_source_in_livingroom
+5d4bde59cf0b3a0f3f335f2f,11,western,ceiling_light,United States,stringini,light_source_in_kitchen
+5ec4f54c3f62767d97a472f4,11,western,ceiling_light,France,larriere,light_source_in_kitchen
+5ec4f837f0611d7ddd740cdd,11,western,ceiling_light,United States,rivera,light_source_in_kitchen
+5d4be1e8cf0b3a0f3f33bcd3,11,western,ceiling_light,United States,hoffman-tsuhlares,light_source_in_kitchen
+5d4bf0bacf0b3a0f3f355672,12,west_african,mud_house,Cote d'Ivoire,yao-bernabi,home
+5d4bf3cdcf0b3a0f3f35a97c,12,west_african,mud_house,Burkina Faso,alimata,home
+5d4bf391cf0b3a0f3f35a418,12,west_african,mud_house,Burkina Faso,bande,home
+5d4bdf23cf0b3a0f3f3372e5,12,west_african,mud_house,Togo,tchamou,home
+5d4bf3abcf0b3a0f3f35a6c0,12,west_african,mud_house,Burkina Faso,zongo,home
+5d4bf373cf0b3a0f3f35a0be,12,west_african,mud_house,Burkina Faso,mwe-quidraogo,home
+5d4bdf2fcf0b3a0f3f33741d,12,west_african,mud_house,Togo,kouleta,home
+5d4bf080cf0b3a0f3f355060,12,west_african,cement_house,Cote d'Ivoire,konan,home
+5d4be41dcf0b3a0f3f33f888,12,western,brick_house,United States,diamond,home
+5d4bed33cf0b3a0f3f34f2ac,12,western,brick_house,United States,grabowski,home
+5d4be050cf0b3a0f3f33900c,12,western,brick_house,Netherlands,ploum,home
+5d4bdf22cf0b3a0f3f3372bf,13,west_african,thatch_roof,Togo,tchamou,roof
+5d4bef13cf0b3a0f3f35293c,13,west_african,thatch_roof,Nigeria,ibojionu,roof
+5d4bef1ecf0b3a0f3f352a78,13,west_african,thatch_roof,Nigeria,ehegwo,roof
+5d4beee7cf0b3a0f3f35240c,13,west_african,thatch_roof,Nigeria,oputa-nwadioro,roof
+5d4bf09ccf0b3a0f3f35530a,13,west_african,thatch_roof,Cote d'Ivoire,konan,roof
+5d4bf0bdcf0b3a0f3f3556c6,13,west_african,thatch_roof,Cote d'Ivoire,yao-bernabi,roof
+5d4bf390cf0b3a0f3f35a3f8,13,west_african,thatch_roof,Burkina Faso,bande,roof
+5d4bf05bcf0b3a0f3f354c82,13,west_african,sheet_roof,Liberia,blamoh,roof
+5d4bf372cf0b3a0f3f35a092,13,west_african,sheet_roof,Burkina Faso,mwe-quidraogo,roof
+5d4bf056cf0b3a0f3f354c04,13,west_african,sheet_roof,Liberia,doe,roof
+5d4bf107cf0b3a0f3f355daa,13,west_african,sheet_roof,Cote d'Ivoire,fofana,roof
+5d4bdf34cf0b3a0f3f33749f,13,west_african,sheet_roof,Togo,ayanou-ahobli,roof
+5ec4fc35f0611d7ddd742e94,13,western,tile_roof,France,chamaitte,roof
+5ec4f934f0611d7ddd741567,13,western,tile_roof,Spain,tejada,roof
+5d4be0dacf0b3a0f3f339fdf,13,western,tile_roof,Netherlands,ploum,roof
+5d4bf3aacf0b3a0f3f35a6a2,14,west_african,sheet_door,Burkina Faso,zongo,front_door
+5d4bf0e5cf0b3a0f3f355ae4,14,west_african,sheet_door,Cote d'Ivoire,coulibaly,front_door
+5d4bf35fcf0b3a0f3f359e80,14,west_african,sheet_door,Burkina Faso,sinare,front_door
+5d4bf3e5cf0b3a0f3f35ab98,14,west_african,sheet_door,Burkina Faso,alimata,front_door
+5d4bdf28cf0b3a0f3f337369,14,west_african,sheet_door,Togo,messan,front_door
+5d4bf460cf0b3a0f3f35b896,14,west_african,sheet_door,Burkina Faso,kabore,front_door
+5ed42a29685870e51019a244,14,western,panel_door,France,carrillo,front_door
+5ec4f920f0611d7ddd7414b0,14,western,panel_door,Spain,rodrigo,front_door
+5ec4f92df0611d7ddd741526,14,western,panel_door,Spain,juan-caballero,front_door
+5d4be035cf0b3a0f3f338d20,14,western,panel_door,Netherlands,van-der-burgt,front_door
+5ec4f912f0611d7ddd741436,14,western,panel_door,Spain,sanchez,front_door
+5d4bdf27cf0b3a0f3f33735d,15,west_african,motorbike,Togo,messan,moped_motorcycle
+5d4bf370cf0b3a0f3f35a070,15,west_african,motorbike,Burkina Faso,mwe-quidraogo,moped_motorcycle
+5d4bf3a8cf0b3a0f3f35a66e,15,west_african,bicycle,Burkina Faso,zongo,bike
+5d4bdf2fcf0b3a0f3f33742d,15,west_african,bicycle,Togo,kouleta,bike
+5d4be023cf0b3a0f3f338b48,15,west_african,bicycle,Nigeria,amama,bike
+5d4bf38dcf0b3a0f3f35a3c0,15,west_african,bicycle,Burkina Faso,bande,bike
+5d4bdf2acf0b3a0f3f3373b3,15,west_african,bicycle,Togo,messan,bike
+5d4bf371cf0b3a0f3f35a07a,15,west_african,bicycle,Burkina Faso,mwe-quidraogo,bike
+5d4bf0c0cf0b3a0f3f355724,15,west_african,bicycle,Cote d'Ivoire,ahova,bike
+5d4bf3cacf0b3a0f3f35a964,15,west_african,bicycle,Burkina Faso,alimata,bike
+5ec4f861f0611d7ddd740e42,15,western,car,United States,deveney,car
+5ec4f8f8f0611d7ddd741364,15,western,car,Spain,garrido,car
+5ec4fbdff0611d7ddd742bc5,15,western,car,France,rayez,car
+5d4bde2bcf0b3a0f3f335af9,15,western,car,Italy,bravo,car
+5d4be028cf0b3a0f3f338bb8,15,western,car,Netherlands,van-beek,car
+5ec4fad3f0611d7ddd7422fa,16,west_african,flip_flops,Ghana,nkrumah,everyday_shoes
+5d4beefacf0b3a0f3f352640,16,west_african,flip_flops,Nigeria,nwadike,everyday_shoes
+5d4beee9cf0b3a0f3f352444,16,west_african,flip_flops,Nigeria,oputa-nwadioro,everyday_shoes
+5ec4fb16f0611d7ddd74252f,16,west_african,flip_flops,Ghana,ampiah,everyday_shoes
+5d4bf0abcf0b3a0f3f3554c6,16,west_african,flip_flops,Cote d'Ivoire,yao-bernabi,everyday_shoes
+5d4bf05bcf0b3a0f3f354c80,16,west_african,flip_flops,Liberia,blamoh,everyday_shoes
+5d4bf04fcf0b3a0f3f354b8c,16,west_african,flip_flops,Liberia,galrbah,everyday_shoes
+5d4bf117cf0b3a0f3f355f5a,16,west_african,flip_flops,Cote d'Ivoire,fofana,everyday_shoes
+5d4bf08acf0b3a0f3f355178,16,west_african,flip_flops,Cote d'Ivoire,konan,everyday_shoes
+5d4bef07cf0b3a0f3f3527c0,16,west_african,flip_flops,Nigeria,udemba,everyday_shoes
+5d4bdf26cf0b3a0f3f337341,16,west_african,sandals,Togo,messan,everyday_shoes
+5d4bdf21cf0b3a0f3f3372b3,16,west_african,sandals,Togo,tchamou,everyday_shoes
+5d4bde8ccf0b3a0f3f3363fd,16,western,sneakers,Netherlands,rasing,everyday_shoes
+5ec4f84bf0611d7ddd740d83,16,western,sneakers,United States,deveney,everyday_shoes
+5d4be544cf0b3a0f3f3419cc,16,western,sneakers,United States,macintyre,everyday_shoes
+5d4bde2ecf0b3a0f3f335b39,16,western,sneakers,Italy,bravo,everyday_shoes
+5d4bf05ccf0b3a0f3f354ca4,17,west_african,hand_wash_basin,Liberia,blamoh,clothes
+5d4bf37ecf0b3a0f3f35a208,17,west_african,hand_wash_basin,Burkina Faso,mwe-quidraogo,clothes
+5d4bef18cf0b3a0f3f3529c8,17,west_african,hand_wash_basin,Nigeria,ibojionu,clothes
+5d4bf3b9cf0b3a0f3f35a830,17,west_african,hand_wash_basin,Burkina Faso,zongo,clothes
+5d4bf3dbcf0b3a0f3f35aa84,17,west_african,hand_wash_basin,Burkina Faso,alimata,clothes
+5d4bf0afcf0b3a0f3f355544,17,west_african,hand_wash_basin,Cote d'Ivoire,yao-bernabi,clothes
+5d4bf11acf0b3a0f3f355fbe,17,west_african,hand_wash_basin,Cote d'Ivoire,fofana,clothes
+5d4bdf25cf0b3a0f3f33730d,17,west_african,hand_wash_basin,Togo,tchamou,clothes
+5d4bf39fcf0b3a0f3f35a56c,17,west_african,hand_wash_basin,Burkina Faso,bande,clothes
+5d4bdf32cf0b3a0f3f33745b,17,west_african,hand_wash_basin,Togo,ayanou-ahobli,clothes
+5d4bdf5fcf0b3a0f3f3378b3,17,western,washing_machine,Canada,vo-lowe,clothes
+5d4be537cf0b3a0f3f34185c,17,western,washing_machine,United States,diamond-01,clothes
+5ec4fc55f0611d7ddd742f96,17,western,washing_machine,France,chamaitte,clothes
+5d4bdf99cf0b3a0f3f337e81,17,western,washing_machine,Switzerland,renato,clothes
+5d4be04acf0b3a0f3f338f4e,17,western,washing_machine,United States,janacek,clothes
+5d4bf04acf0b3a0f3f354af4,18,west_african,radio,Liberia,nyanford,radio
+5d4bef17cf0b3a0f3f35299a,18,west_african,radio,Nigeria,ibojionu,radio
+5d4beef9cf0b3a0f3f35262c,18,west_african,radio,Nigeria,nwadike,radio
+5d4bf0a7cf0b3a0f3f35544a,18,west_african,radio,Cote d'Ivoire,yao-bernabi,radio
+5d4beeedcf0b3a0f3f3524c0,18,west_african,radio,Nigeria,oputa-nwadioro,radio
+5d4bdf2ccf0b3a0f3f3373e1,18,west_african,radio,Togo,kouleta,radio
+5d4bf376cf0b3a0f3f35a110,18,west_african,phone,Burkina Faso,mwe-quidraogo,phone
+5d4bf04acf0b3a0f3f354af8,18,west_african,phone,Liberia,nyanford,phone
+5d4beee6cf0b3a0f3f3523fe,18,west_african,phone,Nigeria,oputa-nwadioro,phone
+5ec4fad2f0611d7ddd7422f3,18,west_african,phone,Ghana,nkrumah,phone
+5d4bf110cf0b3a0f3f355e92,18,west_african,phone,Cote d'Ivoire,fofana,phone
+5d4bf363cf0b3a0f3f359ef4,18,west_african,phone,Burkina Faso,sinare,phone
+5d4bf0ebcf0b3a0f3f355b94,18,west_african,phone,Cote d'Ivoire,coulibaly,phone
+5d4bf084cf0b3a0f3f3550ca,18,west_african,phone,Cote d'Ivoire,konan,phone
+5ec4f90af0611d7ddd7413f0,18,western,tv,Spain,sanchez,tv
+5d4be53ecf0b3a0f3f341930,18,western,tv,United States,macintyre,tv
+605a7a18d746332dd1aad5e9,18,western,tv,Denmark,hansen-refsing,tv
+5ec4fc42f0611d7ddd742f02,18,western,tv,France,chamaitte,tv
+5ec4f8faf0611d7ddd741375,18,western,tv,Spain,dela-torre-sawtana,tv
+5d4bef07cf0b3a0f3f3527c8,19,west_african,manual_toothbrush,Nigeria,udemba,toothbrush
+5d4bdf21cf0b3a0f3f3372a5,19,west_african,manual_toothbrush,Togo,tchamou,toothbrush
+5d4bf055cf0b3a0f3f354be6,19,west_african,manual_toothbrush,Liberia,doe,toothbrush
+5d4bf0f4cf0b3a0f3f355ca8,19,west_african,manual_toothbrush,Cote d'Ivoire,coulibaly,toothbrush
+5d4bf3dacf0b3a0f3f35aa72,19,west_african,manual_toothbrush,Burkina Faso,alimata,toothbrush
+5d4bf369cf0b3a0f3f359f98,19,west_african,manual_toothbrush,Burkina Faso,sinare,toothbrush
+5d4bdf32cf0b3a0f3f337463,19,west_african,manual_toothbrush,Togo,ayanou-ahobli,toothbrush
+5d4bf37dcf0b3a0f3f35a1ee,19,west_african,chewing_stick,Burkina Faso,mwe-quidraogo,toothbrush
+5d4be029cf0b3a0f3f338bd2,19,western,electric_toothbrush,Netherlands,van-beek,toothbrush
+5ec4f82cf0611d7ddd740c80,19,western,electric_toothbrush,United States,rivera,toothbrush
+5ec4f917f0611d7ddd741460,19,western,electric_toothbrush,Spain,rodrigo,toothbrush
+5ec4fbf6f0611d7ddd742c86,19,western,electric_toothbrush,France,rayez,toothbrush
+5d4bf45bcf0b3a0f3f35b812,20,west_african,goat,Burkina Faso,kabore,goats
+5d4bf0b1cf0b3a0f3f35556a,20,west_african,goat,Cote d'Ivoire,yao-bernabi,goats
+5d4bf38fcf0b3a0f3f35a3e0,20,west_african,goat,Burkina Faso,bande,goats
+5d4bef0bcf0b3a0f3f352830,20,west_african,goat,Nigeria,udemba,goats
+5d4bef15cf0b3a0f3f352966,20,west_african,goat,Nigeria,ibojionu,goats
+5d4bf051cf0b3a0f3f354bc8,20,west_african,chicken,Liberia,galrbah,chickens
+5d4bf09fcf0b3a0f3f355372,20,west_african,chicken,Cote d'Ivoire,konan,chickens
+5d4bf0dfcf0b3a0f3f355a32,20,west_african,chicken,Cote d'Ivoire,ahova,chickens
+5d4bdf35cf0b3a0f3f3374b1,20,west_african,chicken,Togo,ayanou-ahobli,chickens
+5d4bf04acf0b3a0f3f354b0e,20,west_african,chicken,Liberia,nyanford,chickens
+5ec4fbdef0611d7ddd742bb6,20,western,pet_dog_cat,France,rayez,pet
+5d4be027cf0b3a0f3f338bb0,20,western,pet_dog_cat,Netherlands,van-beek,pet
+5d4be3d2cf0b3a0f3f33efd1,20,western,pet_dog_cat,United States,theresa-s,pet
+5d4be4e9cf0b3a0f3f340f42,20,western,pet_dog_cat,United States,williams,pet
+5ec4f91af0611d7ddd74147f,20,western,pet_dog_cat,Spain,rodrigo,pet

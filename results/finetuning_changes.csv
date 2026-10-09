@@ -1,0 +1,13 @@
+adapter,test,language,before,after,wrong to right,right to wrong,p value
+"after, English and French",dictionary,english,95.37,95.679,6,4,0.754
+"after, English and French",dictionary,french,94.753,95.679,8,4,0.388
+"after, English and French",dictionary,moore,30.556,31.79,31,25,0.504
+"after, English and French",household,english,97.768,99.107,3,0,0.25
+"after, English and French",household,french,99.107,99.554,1,0,1.0
+"after, English and French",household,moore,33.929,37.5,23,14,0.188
+"after, English, French and Mooré",dictionary,english,95.37,94.753,4,5,1.0
+"after, English, French and Mooré",dictionary,french,94.753,93.827,4,5,1.0
+"after, English, French and Mooré",dictionary,moore,30.556,28.395,34,34,1.0
+"after, English, French and Mooré",household,english,97.768,99.107,3,0,0.25
+"after, English, French and Mooré",household,french,99.107,99.554,1,0,1.0
+"after, English, French and Mooré",household,moore,33.929,33.929,29,25,0.683

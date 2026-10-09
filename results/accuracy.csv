@@ -1,0 +1,193 @@
+model,test,task,language,group,photos,accuracy,low,high
+Qwen3-VL-2B,dictionary,multiple choice,english,global,108,96.3,92.6,99.1
+Qwen3-VL-2B,dictionary,multiple choice,english,local,13,92.3,80.8,100.0
+Qwen3-VL-2B,dictionary,multiple choice,english,unsure,29,93.1,84.5,100.0
+Qwen3-VL-2B,dictionary,multiple choice,french,global,108,94.9,90.7,98.6
+Qwen3-VL-2B,dictionary,multiple choice,french,local,13,92.3,80.8,100.0
+Qwen3-VL-2B,dictionary,multiple choice,french,unsure,29,89.7,77.6,98.3
+Qwen3-VL-2B,dictionary,multiple choice,moore,global,108,25.9,19.4,32.9
+Qwen3-VL-2B,dictionary,multiple choice,moore,local,13,38.5,19.2,61.5
+Qwen3-VL-2B,dictionary,multiple choice,moore,unsure,29,19.0,8.6,31.1
+Qwen3-VL-2B,dictionary,naming,english,global,108,34.3,25.9,42.6
+Qwen3-VL-2B,dictionary,naming,english,local,13,7.7,0.0,23.1
+Qwen3-VL-2B,dictionary,naming,english,unsure,29,6.9,0.0,17.2
+Qwen3-VL-2B,dictionary,naming,french,global,108,20.4,13.0,27.8
+Qwen3-VL-2B,dictionary,naming,french,local,13,0.0,0.0,0.0
+Qwen3-VL-2B,dictionary,naming,french,unsure,29,3.4,0.0,10.3
+Qwen3-VL-2B,dictionary,naming,moore,global,108,0.0,0.0,0.0
+Qwen3-VL-2B,dictionary,naming,moore,local,13,0.0,0.0,0.0
+Qwen3-VL-2B,dictionary,naming,moore,unsure,29,0.0,0.0,0.0
+Qwen3-VL-2B,household,multiple choice,english,west_african,53,95.3,89.6,100.0
+Qwen3-VL-2B,household,multiple choice,english,western,38,97.4,92.1,100.0
+Qwen3-VL-2B,household,multiple choice,french,west_african,53,97.2,93.4,100.0
+Qwen3-VL-2B,household,multiple choice,french,western,38,97.4,93.4,100.0
+Qwen3-VL-2B,household,multiple choice,moore,west_african,53,33.0,21.7,45.3
+Qwen3-VL-2B,household,multiple choice,moore,western,38,28.9,17.1,42.1
+Qwen3-VL-2B,household,naming,english,west_african,94,84.0,76.6,90.4
+Qwen3-VL-2B,household,naming,english,western,56,94.6,87.5,100.0
+Qwen3-VL-2B,household,naming,french,west_african,94,64.9,55.3,74.5
+Qwen3-VL-2B,household,naming,french,western,56,83.9,73.2,92.9
+Qwen3-VL-2B,household,naming,moore,west_african,94,0.0,0.0,0.0
+Qwen3-VL-2B,household,naming,moore,western,56,0.0,0.0,0.0
+Qwen3-VL-4B,dictionary,multiple choice,english,global,114,96.9,93.9,99.6
+Qwen3-VL-4B,dictionary,multiple choice,english,local,13,92.3,76.9,100.0
+Qwen3-VL-4B,dictionary,multiple choice,english,unsure,35,91.4,81.4,98.6
+Qwen3-VL-4B,dictionary,multiple choice,french,global,114,96.9,93.9,99.1
+Qwen3-VL-4B,dictionary,multiple choice,french,local,13,96.2,88.5,100.0
+Qwen3-VL-4B,dictionary,multiple choice,french,unsure,35,91.4,84.2,97.1
+Qwen3-VL-4B,dictionary,multiple choice,moore,global,114,36.0,28.9,43.4
+Qwen3-VL-4B,dictionary,multiple choice,moore,local,13,30.8,11.5,50.0
+Qwen3-VL-4B,dictionary,multiple choice,moore,unsure,35,21.4,11.4,32.9
+Qwen3-VL-4B,dictionary,naming,english,global,114,36.8,28.1,45.6
+Qwen3-VL-4B,dictionary,naming,english,local,13,7.7,0.0,23.1
+Qwen3-VL-4B,dictionary,naming,english,unsure,35,5.7,0.0,14.3
+Qwen3-VL-4B,dictionary,naming,french,global,114,30.7,21.9,39.5
+Qwen3-VL-4B,dictionary,naming,french,local,13,0.0,0.0,0.0
+Qwen3-VL-4B,dictionary,naming,french,unsure,35,0.0,0.0,0.0
+Qwen3-VL-4B,dictionary,naming,moore,global,114,0.0,0.0,0.0
+Qwen3-VL-4B,dictionary,naming,moore,local,13,0.0,0.0,0.0
+Qwen3-VL-4B,dictionary,naming,moore,unsure,35,0.0,0.0,0.0
+Qwen3-VL-4B,household,multiple choice,english,west_african,70,97.1,92.9,100.0
+Qwen3-VL-4B,household,multiple choice,english,western,42,97.6,92.9,100.0
+Qwen3-VL-4B,household,multiple choice,french,west_african,70,100.0,100.0,100.0
+Qwen3-VL-4B,household,multiple choice,french,western,42,97.6,92.9,100.0
+Qwen3-VL-4B,household,multiple choice,moore,west_african,70,35.7,26.4,45.0
+Qwen3-VL-4B,household,multiple choice,moore,western,42,31.0,21.4,41.7
+Qwen3-VL-4B,household,naming,english,west_african,120,83.3,76.6,90.0
+Qwen3-VL-4B,household,naming,english,western,61,91.8,83.6,98.4
+Qwen3-VL-4B,household,naming,french,west_african,120,69.2,60.8,76.7
+Qwen3-VL-4B,household,naming,french,western,61,88.5,80.3,95.1
+Qwen3-VL-4B,household,naming,moore,west_african,120,0.0,0.0,0.0
+Qwen3-VL-4B,household,naming,moore,western,61,0.0,0.0,0.0
+Qwen3-VL-4B,household_113px,multiple choice,english,west_african,70,97.1,93.6,100.0
+Qwen3-VL-4B,household_113px,multiple choice,english,western,42,97.6,92.9,100.0
+Qwen3-VL-4B,household_113px,multiple choice,french,west_african,70,98.6,95.7,100.0
+Qwen3-VL-4B,household_113px,multiple choice,french,western,42,96.4,90.5,100.0
+Qwen3-VL-4B,household_113px,multiple choice,moore,west_african,70,32.9,25.0,41.4
+Qwen3-VL-4B,household_113px,multiple choice,moore,western,42,32.1,21.4,42.9
+Qwen3-VL-4B,household_113px,naming,english,west_african,120,79.2,71.7,85.8
+Qwen3-VL-4B,household_113px,naming,english,western,61,95.1,88.5,100.0
+Qwen3-VL-4B,household_113px,naming,french,west_african,120,65.8,57.5,74.2
+Qwen3-VL-4B,household_113px,naming,french,western,61,93.4,86.9,98.4
+Qwen3-VL-4B,household_113px,naming,moore,west_african,120,0.0,0.0,0.0
+Qwen3-VL-4B,household_113px,naming,moore,western,61,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,english,global,114,96.9,93.4,99.6
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,english,local,13,92.3,76.9,100.0
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,english,unsure,35,91.4,82.9,98.6
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,french,global,114,96.5,93.4,99.1
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,french,local,13,92.3,76.9,100.0
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,french,unsure,35,90.0,80.0,97.1
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,moore,global,114,32.0,25.0,39.5
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,moore,local,13,30.8,7.7,53.8
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,moore,unsure,35,25.7,12.9,38.6
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,english,global,114,35.1,26.3,43.9
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,english,local,13,7.7,0.0,23.1
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,english,unsure,35,5.7,0.0,14.3
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,french,global,114,26.3,18.4,35.1
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,french,local,13,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,french,unsure,35,2.9,0.0,8.6
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,moore,global,114,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,moore,local,13,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,moore,unsure,35,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,english,west_african,70,97.9,95.0,100.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,english,western,42,97.6,92.9,100.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,french,west_african,70,100.0,100.0,100.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,french,western,42,97.6,92.9,100.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,moore,west_african,70,33.6,24.3,43.6
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,moore,western,42,34.5,25.0,45.2
+"Qwen3-VL-4B 4-bit, before",household,naming,english,west_african,120,84.2,77.5,90.8
+"Qwen3-VL-4B 4-bit, before",household,naming,english,western,61,93.4,86.8,98.4
+"Qwen3-VL-4B 4-bit, before",household,naming,french,west_african,120,67.5,58.3,75.8
+"Qwen3-VL-4B 4-bit, before",household,naming,french,western,61,85.2,75.4,93.4
+"Qwen3-VL-4B 4-bit, before",household,naming,moore,west_african,120,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",household,naming,moore,western,61,3.3,0.0,8.2
+SmolVLM2-2.2B,dictionary,multiple choice,english,global,108,85.6,79.6,91.2
+SmolVLM2-2.2B,dictionary,multiple choice,english,local,13,80.8,57.7,100.0
+SmolVLM2-2.2B,dictionary,multiple choice,english,unsure,29,87.9,74.1,98.3
+SmolVLM2-2.2B,dictionary,multiple choice,french,global,108,66.2,58.8,74.1
+SmolVLM2-2.2B,dictionary,multiple choice,french,local,13,50.0,26.9,73.1
+SmolVLM2-2.2B,dictionary,multiple choice,french,unsure,29,53.4,37.9,69.0
+SmolVLM2-2.2B,dictionary,multiple choice,moore,global,108,30.6,23.6,37.5
+SmolVLM2-2.2B,dictionary,multiple choice,moore,local,13,42.3,19.2,65.4
+SmolVLM2-2.2B,dictionary,multiple choice,moore,unsure,29,44.8,31.0,56.9
+SmolVLM2-2.2B,dictionary,naming,english,global,108,35.2,25.9,44.4
+SmolVLM2-2.2B,dictionary,naming,english,local,13,7.7,0.0,23.1
+SmolVLM2-2.2B,dictionary,naming,english,unsure,29,0.0,0.0,0.0
+SmolVLM2-2.2B,dictionary,naming,french,global,108,3.7,0.9,7.4
+SmolVLM2-2.2B,dictionary,naming,french,local,13,0.0,0.0,0.0
+SmolVLM2-2.2B,dictionary,naming,french,unsure,29,0.0,0.0,0.0
+SmolVLM2-2.2B,dictionary,naming,moore,global,108,0.0,0.0,0.0
+SmolVLM2-2.2B,dictionary,naming,moore,local,13,0.0,0.0,0.0
+SmolVLM2-2.2B,dictionary,naming,moore,unsure,29,0.0,0.0,0.0
+SmolVLM2-2.2B,household,multiple choice,english,west_african,53,97.2,92.5,100.0
+SmolVLM2-2.2B,household,multiple choice,english,western,38,92.1,84.2,98.7
+SmolVLM2-2.2B,household,multiple choice,french,west_african,53,74.5,64.2,84.0
+SmolVLM2-2.2B,household,multiple choice,french,western,38,53.9,39.5,69.7
+SmolVLM2-2.2B,household,multiple choice,moore,west_african,53,41.5,30.2,52.8
+SmolVLM2-2.2B,household,multiple choice,moore,western,38,5.3,1.3,10.5
+SmolVLM2-2.2B,household,naming,english,west_african,94,78.7,70.2,87.2
+SmolVLM2-2.2B,household,naming,english,western,56,87.5,78.6,94.6
+SmolVLM2-2.2B,household,naming,french,west_african,94,11.7,5.3,19.1
+SmolVLM2-2.2B,household,naming,french,western,56,16.1,7.1,26.8
+SmolVLM2-2.2B,household,naming,moore,west_african,94,0.0,0.0,0.0
+SmolVLM2-2.2B,household,naming,moore,western,56,0.0,0.0,0.0
+"after, English and French",dictionary,multiple choice,english,global,114,96.1,92.1,99.1
+"after, English and French",dictionary,multiple choice,english,local,13,88.5,73.1,100.0
+"after, English and French",dictionary,multiple choice,english,unsure,35,97.1,91.4,100.0
+"after, English and French",dictionary,multiple choice,french,global,114,98.2,95.6,100.0
+"after, English and French",dictionary,multiple choice,french,local,13,96.2,88.5,100.0
+"after, English and French",dictionary,multiple choice,french,unsure,35,87.1,75.7,97.1
+"after, English and French",dictionary,multiple choice,moore,global,114,34.6,28.1,41.7
+"after, English and French",dictionary,multiple choice,moore,local,13,30.8,11.5,50.0
+"after, English and French",dictionary,multiple choice,moore,unsure,35,22.9,11.4,35.7
+"after, English and French",dictionary,naming,english,global,114,48.2,39.5,57.9
+"after, English and French",dictionary,naming,english,local,13,7.7,0.0,23.1
+"after, English and French",dictionary,naming,english,unsure,35,8.6,0.0,20.0
+"after, English and French",dictionary,naming,french,global,114,28.9,21.1,37.7
+"after, English and French",dictionary,naming,french,local,13,7.7,0.0,23.1
+"after, English and French",dictionary,naming,french,unsure,35,2.9,0.0,8.6
+"after, English and French",dictionary,naming,moore,global,114,0.0,0.0,0.0
+"after, English and French",dictionary,naming,moore,local,13,0.0,0.0,0.0
+"after, English and French",dictionary,naming,moore,unsure,35,0.0,0.0,0.0
+"after, English and French",household,multiple choice,english,west_african,70,99.3,97.9,100.0
+"after, English and French",household,multiple choice,english,western,42,98.8,96.4,100.0
+"after, English and French",household,multiple choice,french,west_african,70,100.0,100.0,100.0
+"after, English and French",household,multiple choice,french,western,42,98.8,96.4,100.0
+"after, English and French",household,multiple choice,moore,west_african,70,41.4,31.4,51.4
+"after, English and French",household,multiple choice,moore,western,42,31.0,19.0,42.9
+"after, English and French",household,naming,english,west_african,120,80.8,73.3,87.5
+"after, English and French",household,naming,english,western,61,82.0,72.1,90.2
+"after, English and French",household,naming,french,west_african,120,65.8,57.5,74.2
+"after, English and French",household,naming,french,western,61,68.9,57.4,80.3
+"after, English and French",household,naming,moore,west_african,120,0.0,0.0,0.0
+"after, English and French",household,naming,moore,western,61,0.0,0.0,0.0
+"after, English, French and Mooré",dictionary,multiple choice,english,global,114,95.6,91.7,98.7
+"after, English, French and Mooré",dictionary,multiple choice,english,local,13,88.5,69.2,100.0
+"after, English, French and Mooré",dictionary,multiple choice,english,unsure,35,94.3,87.1,100.0
+"after, English, French and Mooré",dictionary,multiple choice,french,global,114,96.9,93.9,99.1
+"after, English, French and Mooré",dictionary,multiple choice,french,local,13,92.3,76.9,100.0
+"after, English, French and Mooré",dictionary,multiple choice,french,unsure,35,84.3,71.4,95.7
+"after, English, French and Mooré",dictionary,multiple choice,moore,global,114,31.1,25.0,37.3
+"after, English, French and Mooré",dictionary,multiple choice,moore,local,13,26.9,7.7,46.2
+"after, English, French and Mooré",dictionary,multiple choice,moore,unsure,35,20.0,11.4,28.6
+"after, English, French and Mooré",dictionary,naming,english,global,114,48.2,39.5,57.9
+"after, English, French and Mooré",dictionary,naming,english,local,13,0.0,0.0,0.0
+"after, English, French and Mooré",dictionary,naming,english,unsure,35,8.6,0.0,20.0
+"after, English, French and Mooré",dictionary,naming,french,global,114,28.9,20.2,37.7
+"after, English, French and Mooré",dictionary,naming,french,local,13,0.0,0.0,0.0
+"after, English, French and Mooré",dictionary,naming,french,unsure,35,5.7,0.0,14.3
+"after, English, French and Mooré",dictionary,naming,moore,global,114,0.0,0.0,0.0
+"after, English, French and Mooré",dictionary,naming,moore,local,13,0.0,0.0,0.0
+"after, English, French and Mooré",dictionary,naming,moore,unsure,35,0.0,0.0,0.0
+"after, English, French and Mooré",household,multiple choice,english,west_african,70,99.3,97.9,100.0
+"after, English, French and Mooré",household,multiple choice,english,western,42,98.8,96.4,100.0
+"after, English, French and Mooré",household,multiple choice,french,west_african,70,100.0,100.0,100.0
+"after, English, French and Mooré",household,multiple choice,french,western,42,98.8,96.4,100.0
+"after, English, French and Mooré",household,multiple choice,moore,west_african,70,39.3,30.7,47.9
+"after, English, French and Mooré",household,multiple choice,moore,western,42,25.0,15.5,35.7
+"after, English, French and Mooré",household,naming,english,west_african,120,81.7,75.0,88.3
+"after, English, French and Mooré",household,naming,english,western,61,86.9,78.7,95.1
+"after, English, French and Mooré",household,naming,french,west_african,120,65.0,55.8,73.3
+"after, English, French and Mooré",household,naming,french,western,61,75.4,65.6,85.2
+"after, English, French and Mooré",household,naming,moore,west_african,120,0.0,0.0,0.0
+"after, English, French and Mooré",household,naming,moore,western,61,0.0,0.0,0.0

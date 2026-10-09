@@ -1,0 +1,37 @@
+model,test,task,language,group,photos,accuracy,low,high
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,english,all,162,95.4,92.0,98.1
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,french,all,162,94.8,91.7,97.5
+"Qwen3-VL-4B 4-bit, before",dictionary,multiple choice,moore,all,162,30.6,24.4,37.0
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,english,all,162,26.5,19.8,33.3
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,french,all,162,19.1,13.0,25.3
+"Qwen3-VL-4B 4-bit, before",dictionary,naming,moore,all,162,0.0,0.0,0.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,english,all,112,97.8,95.1,99.6
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,french,all,112,99.1,97.3,100.0
+"Qwen3-VL-4B 4-bit, before",household,multiple choice,moore,all,112,33.9,26.8,41.1
+"Qwen3-VL-4B 4-bit, before",household,naming,english,all,181,87.3,82.3,91.7
+"Qwen3-VL-4B 4-bit, before",household,naming,french,all,181,73.5,66.3,79.6
+"Qwen3-VL-4B 4-bit, before",household,naming,moore,all,181,1.1,0.0,2.8
+"after, English and French",dictionary,multiple choice,english,all,162,95.7,92.6,98.5
+"after, English and French",dictionary,multiple choice,french,all,162,95.7,92.6,98.5
+"after, English and French",dictionary,multiple choice,moore,all,162,31.8,26.2,37.7
+"after, English and French",dictionary,naming,english,all,162,36.4,29.6,43.8
+"after, English and French",dictionary,naming,french,all,162,21.6,15.4,27.8
+"after, English and French",dictionary,naming,moore,all,162,0.0,0.0,0.0
+"after, English and French",household,multiple choice,english,all,112,99.1,97.8,100.0
+"after, English and French",household,multiple choice,french,all,112,99.6,98.7,100.0
+"after, English and French",household,multiple choice,moore,all,112,37.5,29.9,45.5
+"after, English and French",household,naming,english,all,181,81.2,75.1,86.7
+"after, English and French",household,naming,french,all,181,66.9,59.7,73.5
+"after, English and French",household,naming,moore,all,181,0.0,0.0,0.0
+"after, English, French and Mooré",dictionary,multiple choice,english,all,162,94.8,91.4,97.5
+"after, English, French and Mooré",dictionary,multiple choice,french,all,162,93.8,89.8,97.2
+"after, English, French and Mooré",dictionary,multiple choice,moore,all,162,28.4,23.5,33.3
+"after, English, French and Mooré",dictionary,naming,english,all,162,35.8,28.4,43.2
+"after, English, French and Mooré",dictionary,naming,french,all,162,21.6,15.4,27.8
+"after, English, French and Mooré",dictionary,naming,moore,all,162,0.0,0.0,0.0
+"after, English, French and Mooré",household,multiple choice,english,all,112,99.1,97.8,100.0
+"after, English, French and Mooré",household,multiple choice,french,all,112,99.6,98.7,100.0
+"after, English, French and Mooré",household,multiple choice,moore,all,112,33.9,27.7,40.6
+"after, English, French and Mooré",household,naming,english,all,181,83.4,77.9,88.4
+"after, English, French and Mooré",household,naming,french,all,181,68.5,61.9,75.1
+"after, English, French and Mooré",household,naming,moore,all,181,0.0,0.0,0.0

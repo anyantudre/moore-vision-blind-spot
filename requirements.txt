@@ -1,0 +1,15 @@
+# Tested on Kaggle (T4) and locally with these versions. Kaggle already has torch, transformers, pandas and matplotlib.
+# Notebook 1 also needs pymupdf and imagehash, see the first cell of that notebook.
+peft==0.21.2
+bitsandbytes==0.50.2
+sacrebleu
+num2words
+scipy
+pandas>=2.2
+numpy
+pillow
+matplotlib
+torch
+transformers>=5.0
+datasets>=4.0
+huggingface_hub>=1.5
